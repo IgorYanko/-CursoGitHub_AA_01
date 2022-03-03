@@ -2,3 +2,8 @@
 2) Qual a diferença entre git e github?
 3) Porque utilizar controle de versão para os arquivos de um projeto de desenvolvimento de software?
 4) Quais vantagens você enxerga no git? Você utilizaria em seu projeto?
+
+1)É um local onde guardamos nossos códigos, entre outros tipos de arquivos.
+2)O git é um sistema de versionamento, já o GitHub é uma rede social que utiliza o git.
+3)É importante utilizar o versionamento porque caso haja uma mudança que possa causar um erro no funcionamento do projeto, é importante que tenhamos a versão anterior para que a perda possa ser revertida e melhorada.
+4)As principais vantagens do git são o controle de versão e a organização do seu projeto. Utilizaria porque eu gosto de testar bastante coisas e geralmente as mudanças causam erros que são difíceis de consertar, então o git ajudaria nesse ponto.
